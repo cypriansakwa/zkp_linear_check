@@ -1,0 +1,8 @@
+[package]
+name = "zkp_linear_check"       
+type = "bin"
+authors = ["saleel"]
+compiler_version = ">=1.0.0"
+
+[dependencies]
+
